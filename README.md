@@ -8,7 +8,7 @@ Second, there will be some data exploration. My team identify the missing data a
 
 Third, the data will be analyzed, where the team generated insights on macroeconomics (GDP vs Employment) and population (fertility rate). The team also explored business questions surrounding electricity data. Additionally, my team introduced unique characteristics of the East/South African region. We also made comparisons to other regions and/or world averages.
 
-Lastly, we shared our findings a 9-12 minute presentation in front of the masters of business analytics student body.
+Lastly, we shared our findings a 12 minute presentation in front of the masters of business analytics student body.
 
 
 # Files:
