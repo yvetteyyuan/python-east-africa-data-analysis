@@ -8,8 +8,11 @@ Analysis and Presentation
 
 My team augmented the datasets with additional data about the region and cited valid sources. Additionally, my team introduced unique characteristics of the East/South African region. We also made comparisons to other regions and/or world averages.
 
+
 Files:
 
 Presentation deck (.pptx format)
+
 Python code for analysis with embedded comments (.ipynb format)
+
 Meta data and other datasets
